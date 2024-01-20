@@ -1,8 +1,13 @@
-# React + Vite
+# Intro to React: Crafting Dynamic User Interfaces
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Workshop presented by Victoria Da Rosa at Hackville 2024.
 
-Currently, two official plugins are available:
+[Slideshow](https://docs.google.com/presentation/d/e/2PACX-1vRNPChAoot-VJRkXHWNyCrdvlwGhnjsEFsCEslzc5SNh0WEDn5Q598grXUJzsN0YToYNNpshaAhlErG/pub?start=false&loop=false&delayms=3000)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Description
+
+Looking for a way to quickly build a demo for your hackathon project or take it to the next level? Learn the fundamentals of React in this hour-long workshop covering concepts like components, props, state, hooks, and more!
+
+## Prerequisites
+
+* [Node.js v18+](https://nodejs.org/en)
